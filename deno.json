@@ -1,0 +1,8 @@
+{
+    "tasks": {
+        "main": "deno --allow-read --allow-write --allow-net src/main.ts"
+    },
+    "imports": {
+        "saxes": "npm:saxes@^6.0.0"
+    }
+}
